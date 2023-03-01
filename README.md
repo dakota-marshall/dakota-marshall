@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dakota-marshall
 - 👀 I’m interested in all things Linux and Automation, but pretty much all tech I love learning about.
-- 🌱 I’m currently learning Ansible, Docker, and CI pipelines
+- 🌱 I’m currently learning Packer, Terraform, Kubernetes, and Gitlab CI/CD pipelines
 - 📫 Reach me reach me at me@dakotamarshall.net
 
 <!---
