@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dakota-marshall
 - 👀 I’m interested in all things Linux and Automation, but pretty much all tech I love learning about.
-- 🌱 I’m currently learning Packer, Terraform, Kubernetes, and Gitlab CI/CD pipelines
+- 🌱 I’m currently learning Python, Terraform, Kubernetes, and starting to learn Golang
 - 📫 Reach me at me@dakotamarshall.net
 - I play Go, also called Baduk, as a side hobby, and run the Dayton Go Club
 
