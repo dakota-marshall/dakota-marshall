@@ -4,8 +4,6 @@
 - 📫 Reach me at me@dakotamarshall.net
 - I play Go, also called Baduk, as a side hobby, and run the Dayton Go Club
 
-If you like any of my work, and feel like sending something my way, you can sponsor me on [Github](https://github.com/sponsors/dakota-marshall)!
-
 <!--- ![Codewars](https://github.r2v.ch/codewars?user=dakota-marshall&stroke=%23BB432C) --->
 <!---
 dakota-marshall/dakota-marshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
