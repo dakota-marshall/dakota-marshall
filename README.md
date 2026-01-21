@@ -1,4 +1,3 @@
-- Hi, I’m @dakota-marshall
-- Python Adept, Go Novice, Automation Freak
-- I’m currently learning Python, Terraform, Go, and starting to learn Golang
-- All my projects are handcrafted by humans, no robot involvement :)
+I refuse to use a platform that is funding a genocide.
+
+Find my projects and myself on [Codeberg](https://codeberg.org/BoneALisa)
